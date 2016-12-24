@@ -9,3 +9,5 @@ Also if you want to use pgp and you have a similiar alias to above you can do a
 ```
 encrypt pgp
 ```
+![Encrypt animation](keybase.gif)
+
